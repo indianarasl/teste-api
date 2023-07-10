@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 12345678912,
+      "name": "Indianara Lopes"
+    },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
